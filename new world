@@ -1,6 +1,0 @@
-a="hello world"
-print(a)
-f=2=5
-c=f=2
-d=c=1
-print(f,c)
