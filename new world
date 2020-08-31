@@ -1,1 +1,3 @@
-
+a="hello world"
+b="hello life"
+print(a,b)
